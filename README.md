@@ -3,7 +3,7 @@
 
 > "A system is only as powerful as the interface that connects it to the user."
 
-I am a driven B.Tech Computer Science and Engineering student focused on the intersection of core programming and intuitive user experiences. I specialize in bridging complex backend architectures—like IoT ecosystems and real-time databases—with fluid, accessible, and visually engaging web interfaces. I am actively expanding my expertise into backend technologies to evolve into a full-stack developer.
+I am a driven B.Tech Computer Science and Engineering student focused on the intersection of core programming and intuitive user experiences. I specialize in bridging complex backend architectures like IoT ecosystems and real-time databases—with fluid, accessible, and visually engaging web interfaces. I am actively expanding my expertise into backend technologies to evolve into a full-stack developer.
 
 ---
 
@@ -20,7 +20,7 @@ I am a driven B.Tech Computer Science and Engineering student focused on the int
 ### 🛠️ Technical Expertise
 
 * **Core Languages:** HTML5, CSS3, Java, Python, C
-* **Familiarity & Tools:** JavaScript, React.js, Three.js, Git, GitHub, MySQL
+* **Familiarity & Tools:** JavaScript, Three.js, Git, GitHub, MySQL
 * **Design & Concepts:** UI/UX Design, Web Page Structuring, Object-Oriented Programming (OOP), Data Structures
 * **Data & Version Control:** MySQL, Git, GitHub
 
