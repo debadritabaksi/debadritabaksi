@@ -28,9 +28,10 @@ I am a driven B.Tech Computer Science and Engineering student focused on the int
 
 ### 🏆 Featured Architecture
 
-#### 🦚 Maargdarshan: Design and Implementation of an AI-Driven Wearable Ecosystem for 360-Degree Spatial Navigation and Bi-Directional Emergency Synchronization
+#### 🦚 [Maargdarshan: AI-Enabled Smart Navigation Ecosystem](https://github.com/KingDev4522/MaargDarshan-AI-Enabled-Blind-Navigation-Cap-ShowCase)
 *A decentralized IoT mobility ecosystem for the visually impaired. (Patent Pending) [Team Project - UI/UX & Web Interface Co-Developer]*
-
+* **Live Links:** 🌐 [View Beta Caretaker Dashboard](https://maarg-darshan.vercel.app/) | 📱 [Download Beta APK](https://drive.google.com/file/d/1kAw5_C6xUDN8_BLvVMUVQd9Q_YRHFo8i/view)
+> *Note: These are active beta prototypes meant for demonstration and testing purposes.*
 * **UI/UX & Interactive Styling:** Designed responsive UI components and thematic CSS styling, integrating fluid physics (satin/water effects) and custom interactive motifs (e.g., dynamic peacock feather cursor) for an engaging user experience.
 * **Frontend Layout & Design:** Wireframed and co-developed the frontend visual architecture for the real-time caretaker web dashboard of a decentralized IoT navigation ecosystem.
 * **Digital Twin Integration:** Assisted in integrating the WebGL 3D hardware mirroring interface into the dashboard to help visualize the physical orientation of the remote hardware.
