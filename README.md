@@ -1,5 +1,5 @@
 # 👩‍💻 Debadrita Baksi
-**Frontend Architect | UI/UX Designer | Full-Stack & Backend Integrator | CS Student**
+**Frontend Architect | UI/UX Designer | CS Student**
 
 > "A system is only as powerful as the interface that connects it to the user."
 
