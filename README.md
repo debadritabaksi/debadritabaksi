@@ -69,7 +69,7 @@ I am a driven B.Tech Computer Science and Engineering student with a strong focu
 * 🥇 **1st Place (App-Dev Competition: App-E-Teaser)** — JISTech 2K26
 * 🥉 **2nd Runner-Up (Theme Based Project: AI Enabled System)** — JISTech 2K26
 * 🏆 **3rd Runner-Up** — Crazy Build 2K26
-* * 🏆 **Best Beginners Track Winner** — HexaFalls 2 Techfest 2026
+* 🏆 **Best Beginners Track Winner** — HexaFalls 2 Techfest 2026
 
 ---
 
