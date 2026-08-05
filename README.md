@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="LinkedinBanner" src="https://github.com/user-attachments/assets/9a7553b7-2897-41f8-b840-9f6276e3ed54" />
+
+
 # 👩‍💻 Debadrita Baksi
 
 **Frontend Architect | UI/UX Designer | CS Student**
