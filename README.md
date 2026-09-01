@@ -63,7 +63,8 @@ I am a B.Tech CSE student, 3x hackathon dominator, and UI/UX frontend architect 
 * 🥇 **1st place — App Development Competition [App-E-Teaser]** (JISTech 2K26)
 * 🥉 **2nd Runner-Up — Theme Based Project [AI Enabled System]** (JISTech 2K26)
 * 🏆 **3rd Runner-Up — Crazy Build 2K26**
-* 🏆 **Best Beginners Track Winner — HexaFalls 2 Hackathon** (HexaFalls 2 Techfest 2026)
+* 🏆 **Best Beginners Track Winner — HexaFalls 2 Hackathon**
+* 🏆 **Winner** — RevengersHack 2026
 
 ### 💡 Interests
 
