@@ -27,7 +27,7 @@ I am a B.Tech CSE student, 3x hackathon dominator, and UI/UX frontend architect 
 #### 🦚 MaargDarshan: AI-Enabled Smart Navigation Ecosystem
 *(Team Project – Frontend Web Developer, UI/UX Designer & Backend Co-developer)*
 * **Tech Stack:** React.js, JavaScript, Python, HTML5, CSS3, Three.js, FastAPI
-* **Live Links:** 🌐 View Beta Caretaker Dashboard | 📱 Download Beta APK
+* **Live Links:** 🌐 [View Web Portal](https://maarg-darshan.vercel.app/) | 📱 [Download Beta APK](https://drive.google.com/file/d/1kAw5_C6xUDN8_BLvVMUVQd9Q_YRHFo8i/view) *(Note: Active beta prototypes for demonstration)*
 * **UI/UX & Interactive Styling:** Designed responsive UI components and thematic CSS styling, integrating fluid physics (satin/water effects) and custom interactive motifs (e.g., dynamic peacock feather cursor) for an engaging user experience.
 * **Frontend Layout & Design:** Wireframed and co-developed the frontend visual architecture for the real-time caretaker web dashboard of a decentralized IoT navigation ecosystem.
 * **Backend & Cloud Integration:** Engineered the Python-based server architecture (FastAPI) and cloud APIs, handling real-time software integration, secure data routing, and telemetry synchronization between the ESP32 hardware and the web dashboard.
