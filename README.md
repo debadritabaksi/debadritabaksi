@@ -24,13 +24,6 @@ I am a B.Tech CSE student, 3x hackathon dominator, and UI/UX frontend architect 
 
 ### 🏆 Featured Architecture
 
-#### 🔍 Patronus: Multimodal AI Forensics Ecosystem
-*(Team Project – Frontend Co-Developer & UI/UX Architect)*
-* **Tech Stack:** React, Tailwind CSS, WebSockets, Zustand
-* **Enterprise UI/UX Architecture:** Architected the comprehensive visual infrastructure across all 5 forensic modules (Video, Audio, Image, Text, and Document), engineering a strict, authoritative "cyber-forensics" dark-mode interface utilizing Tailwind CSS to meet enterprise standards.
-* **Real-Time DOM Rendering:** Engineered a highly resilient React frontend capable of intercepting and parsing high-frequency backend WebSocket payloads, ensuring the flawless 60FPS rendering of live Base64 Laplacian edge-maps, Grad-CAM heatmaps, and streaming AI verdicts.
-* **Global State & Memory Management:** Implemented a robust, anti-fragile global state architecture using Zustand to eliminate prop-drilling and safely synchronize complex, asynchronous AI payloads, preventing UI freezing and memory leaks during heavy data ingestion.
-
 #### 🦚 MaargDarshan: AI-Enabled Smart Navigation Ecosystem
 *(Team Project – Frontend Web Developer, UI/UX Designer & Backend Co-developer)*
 * **Tech Stack:** React.js, JavaScript, Python, HTML5, CSS3, Three.js, FastAPI
@@ -39,6 +32,13 @@ I am a B.Tech CSE student, 3x hackathon dominator, and UI/UX frontend architect 
 * **Frontend Layout & Design:** Wireframed and co-developed the frontend visual architecture for the real-time caretaker web dashboard of a decentralized IoT navigation ecosystem.
 * **Backend & Cloud Integration:** Engineered the Python-based server architecture (FastAPI) and cloud APIs, handling real-time software integration, secure data routing, and telemetry synchronization between the ESP32 hardware and the web dashboard.
 * **Digital Twin Integration:** Assisted in integrating the WebGL 3D hardware mirroring interface into the dashboard to help visualize the physical orientation of the remote hardware.
+
+#### 🔍 Patronus: Multimodal AI Forensics Ecosystem
+*(Team Project – Frontend Co-Developer & UI/UX Architect)*
+* **Tech Stack:** React, Tailwind CSS, WebSockets, Zustand
+* **Enterprise UI/UX Architecture:** Architected the comprehensive visual infrastructure across all 5 forensic modules (Video, Audio, Image, Text, and Document), engineering a strict, authoritative "cyber-forensics" dark-mode interface utilizing Tailwind CSS to meet enterprise standards.
+* **Real-Time DOM Rendering:** Engineered a highly resilient React frontend capable of intercepting and parsing high-frequency backend WebSocket payloads, ensuring the flawless 60FPS rendering of live Base64 Laplacian edge-maps, Grad-CAM heatmaps, and streaming AI verdicts.
+* **Global State & Memory Management:** Implemented a robust, anti-fragile global state architecture using Zustand to eliminate prop-drilling and safely synchronize complex, asynchronous AI payloads, preventing UI freezing and memory leaks during heavy data ingestion.
 
 #### ⚡ Chanakya-AI: Real-Time Competitive Intelligence Engine
 *(Team Project – Lead Frontend Engineer (Dashboard) & UI/UX Developer)*
