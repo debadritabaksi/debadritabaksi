@@ -76,4 +76,4 @@ I am a B.Tech CSE student, 3x hackathon dominator, and UI/UX frontend architect 
 
 I am always eager to solve complex problems, collaborate on multidisciplinary systems, and grow. Let's build something beautiful.
  
-📄 Download my full Resume here
+📄 **[Download my full Resume here](Debadrita_Baksi_Resume.pdf)**
